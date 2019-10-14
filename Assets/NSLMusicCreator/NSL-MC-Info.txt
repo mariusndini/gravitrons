@@ -1,0 +1,15 @@
+Thank you for purchasing NSL Music Creator!
+
+NSL Music Creator is an in-editor sequencer and runtime music playback tool for Unity.
+
+For a quick start, check out this preview video, which covers basic functions:
+
+http://youtu.be/8F4paN72TQ4
+
+Please take a moment to read through the documentation available here:
+
+http://www.namelesssyntheticlifeforms.com/nsl-music-creator-guide/
+
+For support and feature requests, please contact:
+
+ryan@namelesssyntheticlifeforms.com
